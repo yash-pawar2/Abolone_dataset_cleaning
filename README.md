@@ -89,7 +89,7 @@ Tool	Purpose
 
 [📘 Abalone Analysis Notebook](PROJECT_ML_PART_A.ipynb)
 
-📄 Dataset (.csv)
+[📄 Dataset](abalone.csv)
 
 🤖 Model File (.pkl)
  (if included)
