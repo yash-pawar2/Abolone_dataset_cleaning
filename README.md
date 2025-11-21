@@ -87,7 +87,7 @@ Tool	Purpose
 ---
 📎 Project Files
 
-📘 Abalone Analysis Notebook (.ipynb)
+[📘 Abalone Analysis Notebook](PROJECT_ML_PART_A.ipynb)
 
 📄 Dataset (.csv)
 
