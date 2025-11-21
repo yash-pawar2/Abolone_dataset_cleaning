@@ -91,8 +91,6 @@ Tool	Purpose
 
 [📄 Dataset](abalone.csv)
 
-[🤖 Presentation](ML_PROJECT.pptx)
-
 ---
 👤 Author
 
