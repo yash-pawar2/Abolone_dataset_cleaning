@@ -91,8 +91,7 @@ Tool	Purpose
 
 [📄 Dataset](abalone.csv)
 
-🤖 Model File (.pkl)
- (if included)
+[🤖 Presentation](ML_PROJECT.pptx)
 
 ---
 👤 Author
