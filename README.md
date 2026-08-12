@@ -1,4 +1,25 @@
+<div align="center">
+
 # 🐚 Abalone Dataset Analysis & Age Prediction
+
+### End-to-End Data Science & Machine Learning Project · UCI Abalone Dataset · 4,177 Records
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)](https://seaborn.pydata.org/)
+[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+
+[![Dataset](https://img.shields.io/badge/Rows-4.1K-blueviolet?style=for-the-badge)]()
+[![Features](https://img.shields.io/badge/Features-9-2E8B57?style=for-the-badge)]()
+[![Task](https://img.shields.io/badge/Task-Regression-006400?style=for-the-badge)]()
+
+> Analyzing **4,177 abalone records** to uncover relationships between physical characteristics and age, while developing machine learning models to predict abalone age using statistical analysis, visualization, and regression techniques.
+
+</div>
+
 
 An analytical, insight-driven data science project focused on understanding **abalone growth patterns** and **predicting age** using biological and physical measurements.
 
